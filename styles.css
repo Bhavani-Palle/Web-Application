@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
